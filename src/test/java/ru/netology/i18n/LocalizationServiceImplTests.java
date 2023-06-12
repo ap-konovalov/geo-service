@@ -1,3 +1,5 @@
+package ru.netology.i18n;
+
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import ru.netology.entity.Country;
